@@ -1,0 +1,6 @@
+soup-cli[train]>=0.77.2
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+bitsandbytes>=0.41.0
+torchao>=0.18.0
